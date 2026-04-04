@@ -1,0 +1,49 @@
+Month,Year,Division,Revenue_Budget_NGN_M,OpEx_Budget_NGN_M,NII_Budget_NGN_M,Provisions_Budget_NGN_M
+Jan,2024,Retail Banking,5000,2800,2300,300
+Jan,2024,Corporate Banking,7500,3000,4300,550
+Jan,2024,Treasury,3300,850,2700,100
+Jan,2024,Digital Banking,1600,950,750,90
+Feb,2024,Retail Banking,5100,2850,2350,290
+Feb,2024,Corporate Banking,7650,3080,4400,570
+Feb,2024,Treasury,3450,890,2780,98
+Feb,2024,Digital Banking,1750,990,810,85
+Mar,2024,Retail Banking,5300,2950,2520,305
+Mar,2024,Corporate Banking,8000,3200,4600,620
+Mar,2024,Treasury,3600,920,2880,110
+Mar,2024,Digital Banking,1900,1050,900,88
+Apr,2024,Retail Banking,5200,3000,2450,330
+Apr,2024,Corporate Banking,7850,3250,4450,650
+Apr,2024,Treasury,3500,940,2800,115
+Apr,2024,Digital Banking,2000,1080,940,95
+May,2024,Retail Banking,5450,3080,2600,315
+May,2024,Corporate Banking,8100,3300,4680,640
+May,2024,Treasury,3680,960,2920,113
+May,2024,Digital Banking,2100,1120,1000,98
+Jun,2024,Retail Banking,5600,3150,2700,305
+Jun,2024,Corporate Banking,8350,3360,4850,615
+Jun,2024,Treasury,3800,975,2980,108
+Jun,2024,Digital Banking,2230,1170,1090,93
+Jul,2024,Retail Banking,5400,3180,2520,345
+Jul,2024,Corporate Banking,8100,3400,4620,675
+Jul,2024,Treasury,3650,995,2860,120
+Jul,2024,Digital Banking,2300,1210,1120,100
+Aug,2024,Retail Banking,5550,3210,2640,335
+Aug,2024,Corporate Banking,8280,3430,4740,665
+Aug,2024,Treasury,3740,1005,2920,117
+Aug,2024,Digital Banking,2400,1240,1160,104
+Sep,2024,Retail Banking,5720,3260,2770,320
+Sep,2024,Corporate Banking,8530,3460,4920,650
+Sep,2024,Treasury,3880,1020,3030,113
+Sep,2024,Digital Banking,2530,1280,1220,99
+Oct,2024,Retail Banking,5850,3320,2840,308
+Oct,2024,Corporate Banking,8700,3490,5020,635
+Oct,2024,Treasury,4000,1035,3120,110
+Oct,2024,Digital Banking,2650,1320,1290,96
+Nov,2024,Retail Banking,5980,3370,2920,298
+Nov,2024,Corporate Banking,8900,3520,5160,623
+Nov,2024,Treasury,4120,1050,3210,107
+Nov,2024,Digital Banking,2780,1360,1360,92
+Dec,2024,Retail Banking,6200,3450,3040,285
+Dec,2024,Corporate Banking,9150,3570,5380,605
+Dec,2024,Treasury,4300,1065,3340,103
+Dec,2024,Digital Banking,2950,1400,1450,87
