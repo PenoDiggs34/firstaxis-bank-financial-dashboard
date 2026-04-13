@@ -1,14 +1,14 @@
 # FirstAxis Bank — Financial Performance Dashboard
 ### A Business Analytics Portfolio Project
-**Tools Used:** Microsoft Excel · Power Query · PowerPivot · DAX · Power BI  
-**Domain:** Commercial Banking · Financial Reporting · Variance Analysis  
+**Tools Used:** Microsoft Excel, Power Query, PowerPivot, DAX, Power BI  
+**Domain:** Commercial Banking, Financial Reporting, Variance Analysis  
 **Level:** Intermediate — Built as part of a self-directed data analytics learning journey  
 
 ---
 
 ## About This Project
 
-This is one of my portfolio projects as I develop my skills in business analytics and financial data modelling. I wanted to go beyond generic datasets and build something that reflects how real organisations — particularly banks — actually track and report financial performance internally.
+This is one of my portfolio projects as I develop my skills in business analytics and financial data modelling. I wanted to go beyond generic datasets and build something that reflects how real organisations, particularly banks, actually track and report financial performance internally.
 
 I created a fictional commercial bank called **FirstAxis Bank**, modelled loosely on the structure of mid-tier African commercial banks like Access Bank and Stanbic IBTC, with four business divisions: Retail Banking, Corporate Banking, Treasury, and Digital Banking.
 
@@ -26,7 +26,7 @@ Imagine you are the Head of Financial Planning & Analysis at FirstAxis Bank. Eve
 
 Your job is to consolidate these, identify which divisions are hitting their targets, where costs are running high, and flag any risks before the board meeting.
 
-Currently this is being done manually in Excel — copy-paste, no automation, no relationships between the data. My project automates this entire process and turns it into an interactive dashboard.
+Currently this is being done manually in Excel, copy-paste, no automation, no relationships between the data. My project automates this entire process and turns it into an interactive dashboard.
 
 ---
 
@@ -42,7 +42,7 @@ I created three synthetic CSV datasets that simulate realistic commercial bankin
 
 All figures are in **NGN Millions (NGN M)**.
 
-> **Note:** This data is entirely simulated. It does not represent any real institution. The figures are designed to be realistic — trending upward across the year with Corporate Banking as the dominant division — to enable meaningful analysis.
+> **Note:** This data is entirely simulated. It does not represent any real institution. The figures are designed to be realistic,, trending upward across the year with Corporate Banking as the dominant division, to enable meaningful analysis.
 
 ---
 
@@ -62,7 +62,7 @@ I built a star schema in PowerPivot with:
 - **DimCalendar** — connected to Actuals, Budget, and KPIs via DateKey
 - **FirstAxis_Budget** — connected via both DateKey and Division
 
-This structure allows cross-table filtering — selecting a month in the dashboard filters all three data sources simultaneously.
+This structure allows cross-table filtering, selecting a month in the dashboard filters all three data sources simultaneously.
 
 ### Step 3 — DAX Measures
 I wrote 10 DAX measures to power the dashboard calculations:
@@ -94,7 +94,7 @@ Net Profit Margin % = DIVIDE([Total Net Profit], [Total Revenue], 0) * 100
 
 **Page 3 — Variance Analysis**
 - Clustered column chart: Actuals vs Budget by Month
-- Line chart: Revenue Trend — Actual vs Budget (Jan–Dec)
+- Line chart: Revenue Trend, Actual vs Budget (Jan–Dec)
 - Variance table: Actual vs Budget revenue per division
 
 ---
@@ -120,11 +120,11 @@ After building the dashboard, these were the main insights from the data:
 This project honestly took me much longer than expected. I ran into several real issues:
 
 - Power Query M code syntax errors when setting file paths
-- The PowerPivot relationship failing because DimCalendar had duplicate DateKeys — fixed by collapsing the table to monthly granularity
+- The PowerPivot relationship failing because DimCalendar had duplicate DateKeys, fixed by collapsing the table to monthly granularity
 - Power BI web vs desktop compatibility issues with the data model
 - Many-to-many relationship challenges between Actuals and Budget on the Division column
 
-Working through these problems taught me more than any tutorial would have. I now understand why data modelling decisions made early — like choosing the right granularity for a dimension table — have massive downstream consequences.
+Working through these problems taught me more than any tutorial would have. I now understand why data modelling decisions made early, like choosing the right granularity for a dimension table, have massive downstream consequences.
 
 ---
 
@@ -150,11 +150,6 @@ FirstAxis-Bank-Dashboard/
 
 ---
 
-## Live Dashboard
-
-View the interactive Power BI dashboard here:  
-**[INSERT POWER BI PUBLISH-TO-WEB LINK HERE]**
-
 ---
 
 ## Tools & Skills Demonstrated
@@ -171,7 +166,7 @@ View the interactive Power BI dashboard here:
 
 ## About Me
 
-I am currently building my skills in data and business analytics, with a focus on financial services and commercial banking. This project is part of a self-directed portfolio I am developing to transition into a Business Analyst or Data Analyst role.
+I am currently building my skills in data and business analytics, with a focus on financial services and commercial banking. This project is part of a self-directed portfolio I am developing to transition into a Business Analystics or Data Analyst role.
 
 I am actively looking for entry-level opportunities, internships, or graduate programmes in analytics, business intelligence, or financial analysis.
 
