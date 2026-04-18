@@ -163,11 +163,11 @@ FirstAxis-Bank-Dashboard/
 
 ## About Me
 
-I am currently building my skills in data and business analytics, with a focus on financial services and commercial banking. This project is part of a self-directed portfolio I am developing to transition into a Business Analystics or Data Analyst role.
+I am currently building my skills in data and business analytics, with a focus on financial services and commercial banking. This project is part of a self-directed portfolio I am developing to transition into a Business Analytics or Data Analyst role.
 
 I am actively looking for entry-level opportunities, internships, or graduate programmes in analytics, business intelligence, or financial analysis.
 
-Feel free to connect with me on LinkedIn or reach out via email.
+Feel free to connect with me on LinkedIn https://www.linkedin.com/in/michael-adedayo-dami/; or reach out via email ayodamdam34@gmail.com
 
 ---
 
