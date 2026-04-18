@@ -139,7 +139,7 @@ FirstAxis-Bank-Dashboard/
 │   └── FirstAxis_KPIs.csv
 │
 ├── FirstAxis_FinancialModel.pdf
-├──FirstAxis_Case Study.docx
+├── FirstAxis_Case Study.docx
 ├── FirstAxis_FinancialModel.xlsx    ← Power Query + PowerPivot model 
 │
 └── README.md
