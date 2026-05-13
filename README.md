@@ -2,7 +2,7 @@
 ### A Business Analytics Portfolio Project
 **Tools Used:** Microsoft Excel, Power Query, PowerPivot, DAX, Power BI  
 **Domain:** Commercial Banking, Financial Reporting, Variance Analysis  
-**Level:** Intermediate — Built as part of a self-directed data analytics learning journey  
+**Level:** Intermediate, Built as part of a self-directed data analytics learning journey  
 
 ---
 
