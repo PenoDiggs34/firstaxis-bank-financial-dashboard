@@ -1,4 +1,4 @@
-# FirstAxis Bank — Financial Performance Dashboard
+# FirstAxis Bank - Financial Performance Dashboard
 ### A Business Analytics Portfolio Project
 **Tools Used:** Microsoft Excel, Power Query, PowerPivot, DAX, Power BI  
 **Domain:** Commercial Banking, Financial Reporting, Variance Analysis  
@@ -64,7 +64,7 @@ I built a star schema in PowerPivot with:
 
 This structure allows cross-table filtering, selecting a month in the dashboard filters all three data sources simultaneously.
 
-### Step 3 — DAX Measures
+### Step 3 - DAX Measures
 I wrote 10 DAX measures to power the dashboard calculations:
 
 ```
